@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 
 #### Bu repo Kodluyoruz Fron-End Eğitiminde ilk repo. Içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
+![Resim](C:\Users\DELL\Desktop\menim pojem\kodluyoruzilkrepo\patika 2.png)
 ## Installation ##
 
 #### Öncelikle projeyi cleonlayın.(Buraya sizin reponuzdan aldığınız link gelecek)
